@@ -63,7 +63,7 @@ Project Management Institute (PMI)对于软件项目的定义是**在项目活�
 
 ### 软件管理的定义
 
-软件管理是一个让用户合理参与从而达到预期的增长商业价值的以常识作为基础的途径。  
+软件管理是一个让用户合理参与从而达到预期的增长商业价值的以常识作为基础的途径。
 
 总结的说，**软件项目管理是一系列的常识**。
 
@@ -74,7 +74,7 @@ Project Management Institute (PMI)对于软件项目的定义是**在项目活�
 * 对于软件项目管理的责任。
 
 ### 理解项目管理中的“铁三角”
-在项目管理中，**时间**，**成本** 和 **规模** 是三个相互依存且必须平衡的重要变量。其中一个的改变必须重新思考另外两个变量。
+在项目管理中，**时间**，**成本**和**规模**是三个相互依存且必须平衡的重要变量。其中一个的改变必须重新思考另外两个变量。
 #### 项目中的约束
 * 规模
 * 质量
@@ -140,7 +140,7 @@ Project Management Institute (PMI)对于软件项目的定义是**在项目活�
 
 ### 适用于敏捷项目管理的项目
 
-* **需求** 必须明确但是如何实施则不需要明确
+* **需求**必须明确但是如何实施则不需要明确
 * 中高复杂度
 * 特点
   * 一个已知的方案应对一个关键的问题
@@ -314,8 +314,50 @@ Project Management Institute (PMI)对于软件项目的定义是**在项目活�
 * 在一开始就得把整个项目全部策划好
 * 需要极为精准的预测
 
-Agile PM Approach
+### 敏捷项目管理
 
-Relies on incremental, iterative development cycles to complete less-predictable projects.
-Is ideal for exploratory projects in which requirements need to be discovered and new technology tested.
-Focuses on active collaboration between the project team and customer representatives
+* 以增量，迭代开发循环的方法来应对无法完全预测的项目
+* 是充斥着大量新科技的实验性项目的理想选择
+* 将眼光放在跟客户的协同合作上满足用户的需求
+
+### 在大型项目上使用敏捷开发
+
+* *缩放*是很多团队正在使用的可以同时工作在一个项目不同功能的技术
+* *分期*需要大量的前期准备工作来确保相互依赖的功能正常开发。它同样包含开发协议来规定角色和进度还有相互兼容性保持和谐
+
+### 敏捷组织
+
+一个组织可以在发现上个星期的方法不一定再奏效的时候很迅速的改变自己的前进方向。他们再所有需求都在变化的混沌条件下将结构与灵活性相平衡。最终混沌和秩序间的平衡将带来胜利
+
+### 敏捷项目管理时间之一 - Scrum方法
+
+Scrum方法是一个跨功能团队开发新产品的方法。它将产品的功能定义为*交付*并且依据它能产生的价值给它优先级。优先级再每一次迭代（冲刺）后都将重新评估来达到用户的需求。
+
+Scrum由四个阶段组成：
+
+* 分析
+* 设计
+* 构建
+* 测试
+
+#### Scrum生命周期
+
+![Scrum生命周期](images/ScrumLifecycle.jpg)
+
+#### Scrum开发流程
+![Scrum开发流程](images/ScrumDevelopmentProcess.png)
+
+#### Scrum中的关键角色和责任
+
+* **产品拥有者**：作为用户展现他们的兴趣
+* **开发团队**：一个拥有5-9名成员且跨领域的团队。其职责是完成并交付产品
+* **Scrum大师（或者项目经理）**：作为团队和外部之间的沟通接口，帮助团队解决组织层面的问题或者解决障碍。
+
+#### Scrum会议
+![Scrum会议](images/ScrumMeetings.png)
+
+#### 部分产品目标
+![部分产品目标](images/PartialProductBacklog.png)
+
+#### 部分冲刺目标
+![部分冲刺目标](images/PartialSprintBacklog.png)
